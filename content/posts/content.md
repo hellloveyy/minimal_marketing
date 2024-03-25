@@ -13,3 +13,7 @@ tags: [ 'product' ]
 
 
 <img src="../../images/screenshot.jpg"  />
+
+<img src="../assets/images/defaults/featured_image.jpg"  />
+
+<img src="../../assets/images/defaults/featured_image.jpg"  />
