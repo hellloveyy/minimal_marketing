@@ -2,13 +2,13 @@
 title: "Contact"
 date: 2023-12-18T18:20:23+07:00
 draft: false
-description: This my next awesome post about stuff that my audience love to read.
+description: Famous specialized brake drum multinational trading company from China.
 featured_image: ../assets/images/defaults/featured_image.jpg
 ---
 
 # Tell us about your plans
 
-<form action="#" method="POST" class="">
+<form action="https://formsubmit.co/798894c1018495a2fe6ace8aecb73807" method="POST" class="">
   <div class="">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
       <div>
