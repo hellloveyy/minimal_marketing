@@ -17,7 +17,8 @@ tags: [ 'product' ]
 {{< figure src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG918_20240325_231434897.jpg" title="" caption="" >}}
 
 
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG917.jpg" alt="">
+![imagename](/img/screenshot.jpg)
+<img width="100%" src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG917.jpg" alt="">
 <img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG919.jpg" alt="">
 <img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG920.jpg" alt="">
 
