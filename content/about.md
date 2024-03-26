@@ -7,7 +7,7 @@ featured_image: ../assets/images/defaults/featured_image.jpg
 ---
 
 # About Shigao
-> Welcome to browse, esteemed partner
+> Welcome to contact, esteemed partner
 
 ## Company Profile
 

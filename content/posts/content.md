@@ -17,3 +17,10 @@ tags: [ 'product' ]
 <img src="../assets/images/defaults/featured_image.jpg"  />
 
 <img src="../../assets/images/defaults/featured_image.jpg"  />
+
+
+{{< figure src="/images/featured_image1.jpg" title="图片标题" caption="这是图片的描述。" >}}
+
+{{< figure src="../assets/images/defaults/featured_image.jpg" title="图片标题" caption="这是图片的描述。" >}}
+
+![图片描述](featured_image1.jpg)
