@@ -16,6 +16,7 @@
     "start": "concurrently npm:watch:*",
     "watch:tw": "tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch",
     "watch:hugo": "hugo server",
+    "prebuild": "npm install hugo-cli -g",
     "build": "hugo --minify"
   },
   "keywords": [],
