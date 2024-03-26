@@ -12,21 +12,16 @@ tags: [ 'product' ]
 
 > The following are some of our products show, can be customized products according to your intention, welcome to inquire!
 
+![imagename](/img/WechatIMG918_20240325_231434897.jpg)
+![imagename](/img/WechatIMG917.jpg)
+![imagename](/img/WechatIMG919.jpg)
+![imagename](/img/WechatIMG920.jpg)
 
-![图片描述](http://saxt0z6kj.sabkt.gdipper.com/WechatIMG918_20240325_231434897.jpg)
-{{< figure src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG918_20240325_231434897.jpg" title="" caption="" >}}
+![imagename](/img/WechatIMG922.jpg)
+![imagename](/img/WechatIMG923.jpg)
+![imagename](/img/WechatIMG924.jpg)
+![imagename](/img/WechatIMG925.jpg)
 
-
-![imagename](/img/screenshot.jpg)
-<img width="100%" src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG917.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG919.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG920.jpg" alt="">
-
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG922.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG923.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG924.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG925.jpg" alt="">
-
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG926.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG927.jpg" alt="">
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG928.jpg" alt="">
+![imagename](/img/WechatIMG926.jpg)
+![imagename](/img/WechatIMG927.jpg)
+![imagename](/img/WechatIMG928.jpg)
