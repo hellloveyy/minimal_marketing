@@ -8,7 +8,7 @@ featured_image: ../assets/images/defaults/featured_image.jpg
 
 # Tell us about your plans
 
-<form action="https://formsubmit.co/798894c1018495a2fe6ace8aecb73807" method="POST" class="">
+<form action="https://formsubmit.co/frank@hblydjzz.com" method="POST" class="">
   <div class="">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
       <div>

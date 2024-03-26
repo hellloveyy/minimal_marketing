@@ -23,4 +23,9 @@ tags: [ 'product' ]
 
 {{< figure src="../assets/images/defaults/featured_image.jpg" title="图片标题" caption="这是图片的描述。" >}}
 
-![图片描述](featured_image1.jpg)
+![图片描述](/images/featured_image1.jpg)
+
+![图片描述](/images/screenshot.jpg)
+
+
+![图片描述](../assets/images/defaults/featured_image.jpg)
