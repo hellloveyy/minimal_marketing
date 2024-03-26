@@ -12,7 +12,11 @@ tags: [ 'product' ]
 
 > The following are some of our products show, can be customized products according to your intention, welcome to inquire!
 
-<img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG918_20240325_231434897.jpg" alt="">
+
+![图片描述](http://saxt0z6kj.sabkt.gdipper.com/WechatIMG918_20240325_231434897.jpg)
+{{< figure src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG918_20240325_231434897.jpg" title="" caption="" >}}
+
+
 <img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG917.jpg" alt="">
 <img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG919.jpg" alt="">
 <img src="http://saxt0z6kj.sabkt.gdipper.com/WechatIMG920.jpg" alt="">
