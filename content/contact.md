@@ -10,7 +10,7 @@ featured_image: ../assets/images/defaults/featured_image.jpg
 
 > Our mobile is +86 15630909280, you can also contact our company by sending an email.
 
-<form action="https://formsubmit.co/frank@hblydjzz.com" method="POST" class="">
+<form action="https://formsubmit.co/brakedrum945@gmail.com" method="POST" class="">
   <div class="">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
       <div>
