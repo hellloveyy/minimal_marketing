@@ -10,7 +10,7 @@ featured_image: ../assets/images/defaults/featured_image.jpg
 
 > Our mobile is +86 15630909280, you can also contact our company by sending an email.
 
-<form action="https://formsubmit.co/ioschatgpt@gmail.com" method="POST" class="">
+<form action="https://formsubmit.co/ed31c45531c49bb32f11316b57a26e0d" method="POST" class="">
   <div class="">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
       <div>
