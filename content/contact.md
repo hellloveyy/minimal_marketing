@@ -8,7 +8,7 @@ featured_image: ../assets/images/defaults/featured_image.jpg
 
 # Tell us about your plans
 
-> Our mobile is +86 15630909280, you can also contact our company by sending an email.
+> Our mobile is +86 15076886161, you can also contact our company by sending an email.
 
 <form action="https://formsubmit.co/ed31c45531c49bb32f11316b57a26e0d" method="POST" class="">
   <div class="">
