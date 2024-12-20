@@ -1,9 +1,9 @@
- ---
+---
 title: "Our Production Workshop"
 date: 2024-04-02T10:00:00+07:00
 draft: false
 description: A tour of our state-of-the-art production workshop.
-featured_image: ../assets/images/defaults/workshop_featured.jpg
+featured_image: ../assets/images/defaults/workshop.png
 summary: Explore our facilities and see how we manufacture our products.
 tags: [ 'workshop', 'manufacturing' ]
 ---
@@ -40,6 +40,16 @@ tags: [ 'workshop', 'manufacturing' ]
 <p>Take a virtual tour of our workshop and see our processes in action.</p>
 
 <video width="640" height="360" controls>
-  <source src="/videos/workshop_tour.mp4" type="video/mp4">
+  <source src="/img/1106_1734690283.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="/img/1107_1734690284.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="/img/1108_1734690284.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
