@@ -49,3 +49,5 @@ featured_image: ../assets/images/defaults/featured_image.jpg
     </div>
   </div>
 </form>
+
+![Contact Us](../assets/images/defaults/WechatIMG1147.jpg)
