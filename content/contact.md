@@ -50,4 +50,4 @@ featured_image: ../assets/images/defaults/featured_image.jpg
   </div>
 </form>
 
-![Contact Us](../assets/images/defaults/WechatIMG1147.jpg)
+<img src="/images/defaults/WechatIMG1147.jpg" alt="Contact Us" class="w-full">
